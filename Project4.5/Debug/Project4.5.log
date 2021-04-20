@@ -1,0 +1,8 @@
+﻿  Linear.cpp
+  Root.cpp
+  Source.cpp
+C:\Users\Admin\source\repos\Project4.5\Project4.5\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Project4.5\Project4.5\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Square.cpp
+  Generating Code...
+  Project4.5.vcxproj -> C:\Users\Admin\source\repos\Project4.5\Debug\Project4.5.exe
